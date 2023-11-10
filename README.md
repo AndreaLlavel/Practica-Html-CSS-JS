@@ -1,4 +1,6 @@
 # Practica-Html-CSS-JS
+<img src="https://github.com/AndreaLlavel/Practica-Html-CSS-JS/assets/112596102/6548e568-c437-4fb3-af9e-b0170c634510"/>
+
 # Descripcion
 <h1>HTML: Lenguaje Marcado de Hipertexto:
 <p>-Es el codigo que se utiliza para estructurar y desplegar una pgina web y sus contenidos. 
